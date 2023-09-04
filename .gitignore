@@ -1,0 +1,7 @@
+node_modules
+dist
+
+app/package.json
+app/package-lock.json
+app/main
+app/renderer
